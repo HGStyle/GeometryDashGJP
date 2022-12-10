@@ -18,11 +18,15 @@ def xor_cipher(string: str, key: str) -> str:
     return ("").join(chr(ord(x) ^ ord(y)) for x, y in zip(string, itertools.cycle(key)))
 
 def generate_gjp(password: str):
-	  gjp = xor_cipher(password, "37526")
-	  gjp = base64_encode(gjp)
-	  return gjp
+    gjp = xor_cipher(password, "37526")
+    gjp = base64_encode(gjp)
+    return gjp
 
 pw = input('GD Password (will be echoed) : ')
 gjp = generate_gjp(pw)
 print('GJP is : ' + gjp)
 ```
+
+This repo is only to learn you what is GJP and how to generate it.
+Because here is no many sites that learn you that.
+Enjoy generating GJP !
