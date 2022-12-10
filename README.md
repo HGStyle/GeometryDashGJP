@@ -30,3 +30,8 @@ print('GJP is : ' + gjp)
 This repo is only to learn you what is GJP and how to generate it.
 Because here is no many sites that learn you that.
 Enjoy generating GJP !
+
+# Credits
+Credits to tildeman (https://github.com/tildeman/) with his repository `getGJP` at https://github.com/tildeman/getGJP
+Credits to Cvolton (https://github.com/Cvolton/) with his repository `GMDprivateServer` at https://github.com/Cvolton/GMDprivateServer
+Credits to me (i've converted the PHP code of @tildeman to Python code).
