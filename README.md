@@ -33,5 +33,7 @@ Enjoy generating GJP !
 
 # Credits
 Credits to tildeman (https://github.com/tildeman/) with his repository `getGJP` at https://github.com/tildeman/getGJP
+
 Credits to Cvolton (https://github.com/Cvolton/) with his repository `GMDprivateServer` at https://github.com/Cvolton/GMDprivateServer
+
 Credits to me (i've converted the PHP code of @tildeman to Python code).
