@@ -15,4 +15,4 @@ def generate_gjp(password: str):
 if __name__ == "__main__":
     pw = input('GD Password (will be echoed) : ')
     gjp = generate_gjp(pw)
-    print('GJP is : ' + gjp)
+    print(f'GJP is : {gjp}')
