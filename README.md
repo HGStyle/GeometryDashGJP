@@ -36,6 +36,8 @@ Credits to tildeman (https://github.com/tildeman/) with his repository `getGJP` 
 
 Credits to Cvolton (https://github.com/Cvolton/) with his repository `GMDprivateServer` at https://github.com/Cvolton/GMDprivateServer
 
-Credits to Geometry Dash Documentation Team for XOR cipher and Base64 encode functions. Unofficial Geometry Dash Docs by them at https://docs.gdprogra.me/#/
+Credits to Geometry Dash Documentation Team for XOR cipher and Base64 encode functions. Unofficial Geometry Dash Docs by them at :
+New GD Docs: https://docs.gd-programming.org/
+Old GD Docs backup: https://wyliemaster.github.io/gddocs/#/
 
 Credits to me (i've converted the PHP code of @tildeman to Python code).
