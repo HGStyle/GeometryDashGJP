@@ -1,3 +1,6 @@
+## WARNING
+### The following is only working for GD 2.1 and before, as RobTop changed the GJP encoding to an actual hash called GJP2 and GJPs in their original version are no longer used in 2.2
+
 # What is Geometry Dash GJP ?
 
 GJP is for "Geometry Jump Password".
